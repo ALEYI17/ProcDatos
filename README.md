@@ -1,0 +1,69 @@
+![Imagen javeriana](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Javeriana.svg/600px-Javeriana.svg.png)
+
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=github&line1=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zMS44ODUgMTZjLTguMTI0IDAtNy42MTcgMy41MjMtNy42MTcgMy41MjNsLjAxIDMuNjVoNy43NTJ2MS4wOTVIMjEuMTk3UzE2IDIzLjY3OCAxNiAzMS44NzZjMCA4LjE5NiA0LjUzNyA3LjkwNiA0LjUzNyA3LjkwNmgyLjcwOHYtMy44MDRzLS4xNDYtNC41MzcgNC40NjUtNC41MzdoNy42ODhzNC4zMi4wNyA0LjMyLTQuMTc1di03LjAxOVM0MC4zNzQgMTYgMzEuODg1IDE2em0tNC4yNzUgMi40NTRjLjc3MSAwIDEuMzk1LjYyNCAxLjM5NSAxLjM5NXMtLjYyNCAxLjM5NS0xLjM5NSAxLjM5NWExLjM5MyAxLjM5MyAwIDAgMS0xLjM5NS0xLjM5NWMwLS43NzEuNjI0LTEuMzk1IDEuMzk1LTEuMzk1eiIgZmlsbD0idXJsKCNhKSIvPjxwYXRoIGQ9Ik0zMi4xMTUgNDcuODMzYzguMTI0IDAgNy42MTctMy41MjMgNy42MTctMy41MjNsLS4wMS0zLjY1SDMxLjk3di0xLjA5NWgxMC44MzJTNDggNDAuMTU1IDQ4IDMxLjk1OGMwLTguMTk3LTQuNTM3LTcuOTA2LTQuNTM3LTcuOTA2aC0yLjcwOHYzLjgwM3MuMTQ2IDQuNTM3LTQuNDY1IDQuNTM3aC03LjY4OHMtNC4zMi0uMDctNC4zMiA0LjE3NXY3LjAxOXMtLjY1NiA0LjI0NyA3LjgzMyA0LjI0N3ptNC4yNzUtMi40NTRhMS4zOTMgMS4zOTMgMCAwIDEtMS4zOTUtMS4zOTVjMC0uNzcuNjI0LTEuMzk0IDEuMzk1LTEuMzk0czEuMzk1LjYyMyAxLjM5NSAxLjM5NGMwIC43NzItLjYyNCAxLjM5NS0xLjM5NSAxLjM5NXoiIGZpbGw9InVybCgjYikiLz48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIxOS4wNzUiIHkxPSIxOC43ODIiIHgyPSIzNC44OTgiIHkyPSIzNC42NTgiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMzg3RUI4Ii8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzY2OTk0Ii8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSIyOC44MDkiIHkxPSIyOC44ODIiIHgyPSI0NS44MDMiIHkyPSI0NS4xNjMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjRkZFMDUyIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZDMzMxIi8%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPC9zdmc%2B%2CPython%2C%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii03Ljg3MiAtMy44NyA2Ni41NDEgNjYuMjgiIGhlaWdodD0iNjQiIHdpZHRoPSI2NCIgZmlsbD0iI2UyNWExYyI%2BPHBhdGggZD0iTTQyLjkxNSA0Mi4xbC0uMzAzLS42NDQtNi42Mi0xMi41NWMtLjIyNC0uNDItLjE5Ni0uNjcuMS0xLjAyN2wxMC40NzMtMTIuM2MuMTIyLS4xNDQuMjMzLS4yOTguMjgtLjU1NGwtMy4wNTguOC0xMi43IDMuMzc1Yy0uMzk0LjEwNi0uNTczLS4wMS0uNzctLjMzNkwyMy4xMDUgNi44NDhjLS4xMjUtLjIwOC0uMjYtLjQtLjUyNS0uNTg1bC0uNTgyIDMuMjA3LTIuMDEzIDExLjMzLS4yMDggMS4yMjRjLS4wMzQuNC0uMjM0LjUzNC0uNTg2LjY0NUw0LjI0IDI3LjM5NGMtLjIyLjA3LS40MzIuMTU4LS42NjcuMzcybDEyLjMgNC44ODQtLjM2LjI4M0w3Ljg2IDM3Ljg4YS44MS44MSAwIDAgMS0uODg3LjA3MmwtOS4xNDYtNC4wNzZjLTEuMzY4LS42LTIuNi0xLjQyMy0zLjU1OC0yLjU5NS0yLjE2Ny0yLjY1LTEuNzQtNS42NjcgMS4xNDgtNy41Ljk0NS0uNjAzIDIuMDE4LTEuMDU1IDMuMDg4LTEuNDA0bDE0LjY4Ni00LjY2NWMuNC0uMTI4LjYtLjMxMi42NzctLjc1N2wyLTExLjMzYy4zNjQtMi4wMTguNTU4LTQuMSAxLjU0LTUuOTM4LjM3Ny0uNy44My0xLjQwOCAxLjM2Ny0yLjAwNCAxLjk0NS0yLjE2IDQuNjYtMi4yNDIgNi43MTYtLjE4Ni42OTQuNjk0IDEuMyAxLjUxMyAxLjgwNyAyLjM1M0wzNCAxMC45ODZjLjI2Mi40NC41LjUzLjk4NC40TDUxLjQgNy4wMjVjMS4xMjgtLjI5OCAyLjI3LS40MDcgMy40MjctLjIgMi41Mi40NzIgMy42MjMgMi40IDIuNzcgNC44MjYtLjM4OCAxLjEtMS4wNTggMi4wNDctMS44IDIuOTMyTDQ0LjM0IDI4LjA1Yy0uMzEzLjM2Ni0uMzIuNjMtLjEwMyAxLjA0bDYuODIyIDEyLjkzNGMuNTQ0IDEuMDMyLjk2IDIuMTAzLjk3IDMuMjg4LjAyNyAyLjY5Ni0xLjk0NCA0LjkwMi00LjYyMyA1LjI5NC0xLjUuMjItMi44OTQtLjEtNC4zLS41MzRsLTEwLjMtMy4xMzNjLS4zMTgtLjA5NS0uNDQtLjIyLS40OTYtLjU2M2wtMS4yNDItNy4yNGMtLjAxMi0uMDY2LjAwOC0uMTM4LjAxOC0uMjg2bDExLjgyIDMuMjYiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGQ9Ik0xNS44NjMgMzIuNjVsMi4xOC45NUwxNS42MiA1Mi45bDEzLjI0NC0xNC42OCAyLjIzMy42MjcgMi43NSA4LjM2LTMuNTc0LTEuMjYtOS4yNDggOS45ODRzLTQuMTM2IDQuMjgyLTYuMzc4IDMuNTYtNC4xMzQtMi43Mi00LjM0NC02LjI5Mi0xLjE1Ni0xMy43Ny0xLjE1Ni0xMy43N2wtNC41Mi0zLjI1OHoiLz48cGF0aCBkPSJNOS4xNDYgMzkuNDNTNy4xNSA2MS41MDMgMTEuMDM4IDYyLjIzOHMtLjQyLS4xMDUtLjQyLS4xMDUgMi4yMDcgMi41MjMgMTAuOTMtNi44MzJsOC43MjQtOS4zNTQtMTcuNDQ4IDEwLjNjLjQyLS41MjYgMi4yMDctMTguMzk0IDIuMjA3LTE4LjM5NHoiLz48L3N2Zz4%3D%2CSpark%2C%3B)
+
+
+
+# Proyecto de Análisis de Datos - Ciudad de Nueva York
+
+Este proyecto presenta un análisis de datos sobre diversos aspectos de la Ciudad de Nueva York, incluyendo colisiones, pobreza y quejas. Se proporcionan dos archivos PDF que detallan la presentación del proyecto y el documento completo del proyecto.
+
+## 🔗 Integrantes
+- Andres Salamanca
+  
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Andres-Salamanca)
+
+- Alejandro Salamanca
+  
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ALEYI17)
+
+- Alberto Vigna
+  
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Betico1928)
+
+
+
+## Archivos PDF
+
+1. **Presentacion Proyecto DGS.pdf**: Este archivo proporciona una visión general del proyecto, sus objetivos, metodología y hallazgos principales.
+2. **Proyecto Procesamiento de datos.pdf**: Contiene una descripción detallada de la metodología utilizada, los conjuntos de datos analizados, los resultados obtenidos y las conclusiones del proyecto.
+
+## Códigos Jupyter Notebook
+
+Se incluyen dos archivos de código en formato Jupyter Notebook (`.ipynb`):
+
+1. **Análisis de arrestos y Pobreza (NY_datos.ipynb)**: Este notebook contiene el análisis realizado sobre los datasets de arrestos y pobreza en la Ciudad de Nueva York. Se exploran relaciones, tendencias y patrones en los datos relacionados con estos temas.
+
+2. **Análisis de Quejas en la Ciudad de Nueva York (Proyecto NY Analisis quejas.ipynb)**: Aquí se presenta el análisis de los conjuntos de datos de quejas en la Ciudad de Nueva York. Se examinan diferentes aspectos de las quejas, como su distribución en el tiempo, los tipos más comunes de quejas, entre otros.
+
+## Requisitos y Dependencias
+
+Para ejecutar los códigos incluidos en los notebooks, se requiere tener instalado Python junto con las siguientes bibliotecas:
+
+- Pandas
+- PySpark
+- Matplotlib
+- Seaborn
+
+```bash
+pip install matplotlib
+```
+
+```bash
+pip install seaborn
+```
+```bash
+pip install pyspark
+```
+
+```bash
+pip install pandas
+```
+
+
+## Links datasets
+[Datos de los arrestos en Nueva York](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data).
+
+[Datos de pobreza en Nueva York](https://data.cityofnewyork.us/City-Government/NYCgov-Poverty-Measure-Data-2018-/cts7-vksw/about_data).
+
+[Datos quejas en Nueva York](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/about_data).
